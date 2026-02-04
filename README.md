@@ -247,7 +247,10 @@ inet.0: 23 destinations, 23 routes (23 active, 0 holddown, 0 hidden)
                 Accepted
                 Localpref: 100
                 Router ID: 10.255.0.10
-                Thread: junos-main 
+                Thread: junos-main
+
+Protocol next hop = This is the BGP NEXT_HOP attribute carried in the update.
+
 ```
 
 Forwarding check:
@@ -326,7 +329,10 @@ inet.0: 23 destinations, 23 routes (23 active, 0 holddown, 0 hidden)
                 Accepted
                 Localpref: 100
                 Router ID: 10.255.0.10
-                Thread: junos-main 
+                Thread: junos-main
+
+Protocol next hop = This is the BGP NEXT_HOP attribute carried in the update.
+
 ```
 
 Forwarding check:
@@ -474,7 +480,9 @@ inet.0: 23 destinations, 23 routes (23 active, 0 holddown, 0 hidden)
                 Accepted
                 Localpref: 100
                 Router ID: 10.255.0.10
-                Thread: junos-main 
+                Thread: junos-main
+
+Protocol next hop = This is the BGP NEXT_HOP attribute carried in the update.
 ...
 ```
 
@@ -521,6 +529,8 @@ inet.0: 23 destinations, 23 routes (23 active, 0 holddown, 0 hidden)
                 Localpref: 100
                 Router ID: 10.255.0.10
                 Thread: junos-main
+
+Protocol next hop = This is the BGP NEXT_HOP attribute carried in the update.
 
 ```
 
