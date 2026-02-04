@@ -2,7 +2,7 @@
 
 ---
 
-# BGP Optimal Route Reflection (ORR) vs Normal Route Reflection (RR) — Junos Lab
+# BGP (ORR) vs Normal Route Reflection (RR)
 
 This lab demonstrates how **BGP Optimal Route Reflection (ORR)** in Junos improves route-reflection behaviour compared to **traditional route reflection** when multiple egress/exit paths exist for the same prefix.
 
